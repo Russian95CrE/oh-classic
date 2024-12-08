@@ -8,7 +8,7 @@ Welcome to **Oh**, the game that's more about fun than winning! 😆 Developed i
 This game is all about simple, fast, and frustrating fun! Think you can keep your cool? 😤 
 
 ## 🔗 Play it Now!
-👉 [Click here to play](https://russian95cre.github.io/Oh) 👈  
+👉 [Click here to play](https://russian95cre.github.io/oh-classic) 👈  
 No downloads, no installs, just jump in and start playing! 🎉
 
 ## 🎮 How to Play
